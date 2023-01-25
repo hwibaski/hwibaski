@@ -4,7 +4,7 @@
 	
 #### Skills ✨
 	
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)![NestJS](https://img.shields.io/badge/nest.js-#E0234E?style=for-the-badge&logo=nest.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)![NestJS](https://img.shields.io/static/v1?style=for-the-badge&message=NestJS&color=E0234E&logo=NestJS&logoColor=FFFFFF&label=)![PostgreSQL](https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label=)![Apollo GraphQL](https://img.shields.io/static/v1?style=for-the-badge&message=Apollo+GraphQL&color=311C87&logo=Apollo+GraphQL&logoColor=FFFFFF&label=)
 </br>
 
 #### Visit Me ✨
