@@ -7,6 +7,7 @@ I am constantly striving to become a skilled software engineer and thoroughly en
 - [toss/es-tookit](https://github.com/hwibaski/es-toolkit)
   - [docs: add example in browser console](https://github.com/toss/es-toolkit/pull/1208)
   - [feat(defaultsDeep): add defaultsDeep to compat/object](https://github.com/toss/es-toolkit/pull/1183)
+  - [fix(defaults): handle undefined and null sources in compat/defaults](https://github.com/toss/es-toolkit/pull/1233)
 
 ## Recent Blog Posts
 
